@@ -9,13 +9,11 @@
 </div>
 
 ###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Gouravverma7.Gouravverma7&"  />
 </div>
 
 ###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
