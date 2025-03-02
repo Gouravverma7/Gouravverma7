@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">I'm Gourav Verma from India<br><br>- 🔭 I’m Data Analyst enthusiast<br>- 📚 I'm currently learning Data Analytics and Machine Learning<br>- ⚡ In my free time I spent time to Solve Leetcode problems and Creating Analytical Dashboard using various Datasets.</p>
+<p align="left">I'm Gourav Verma from Indore, India<br><br>- 🔭 I’m Data Analyst and Software Developer<br>- 📚 I'm currently learning Data Analytics and Python Development<br>- ⚡ In my free time I spent time to Solve Leetcode problems and Creating Analytical Dashboard using various Datasets and Python Developments Projects.</p>
 
 ###
 
