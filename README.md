@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Gourav Verma</h1>
   <p><strong>Data Analyst | Full Stack Developer | Software Engineer</strong></p>
-  <p>Indore, India | <a href="https://www.linkedin.com/in/gourav-verma2907/">LinkedIn</a> | <a href="https://www.hackerrank.com/profile/gouravverma2907">HackerRank</a></p>
+  <p> India | <a href="https://www.linkedin.com/in/gourav-verma2907/">LinkedIn</a> | <a href="https://www.hackerrank.com/profile/gouravverma2907">HackerRank</a></p>
   
   ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Gouravverma7.Gouravverma7)
 </div>
