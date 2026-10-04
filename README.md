@@ -18,7 +18,7 @@ Full Stack Developer and Data Analyst with expertise in building scalable applic
 
 **Backend & Full Stack:**
 - Microservices architecture, RESTful APIs, real-time applications
-- Node.js, Express, Python (Django, FastAPI)
+- Python (Django, FastAPI), Java
 - Database design: PostgreSQL, MySQL, MongoDB
 
 **Frontend Development:**
@@ -59,7 +59,7 @@ Full Stack Developer and Data Analyst with expertise in building scalable applic
 - **Repo:** [Resume-Matcher](https://github.com/Gouravverma7/Resume-Matcher)
 
 ### 4. **Placement Management System**
-- **Tech Stack:** Full-stack (Frontend: CSS/JavaScript, Backend: Node.js/Database)
+- **Tech Stack:** Full-stack (Frontend: CSS/JavaScript, Backend: Python/Database)
 - **Impact:** Centralized platform for job postings, student applications, and hiring workflows
 - **Features:** User authentication, application tracking, employer dashboard
 - **Repo:** [placement_management_system](https://github.com/Gouravverma7/placement_management_system)
@@ -83,7 +83,7 @@ Full Stack Developer and Data Analyst with expertise in building scalable applic
 |----------|--------------|
 | **Languages** | Python, JavaScript/TypeScript, Java, HTML5, CSS3 |
 | **Frontend** | React, Angular, HTML/CSS, Responsive Design |
-| **Backend** | Node.js, Express, Python (Django, FastAPI), Java |
+| **Backend** | Python (Django, FastAPI), Java |
 | **Databases** | PostgreSQL, MySQL, MongoDB |
 | **Data & BI** | Power BI, Jupyter, Pandas, NumPy, Anaconda |
 | **DevOps & Cloud** | Docker, AWS, Google Cloud, Git |
